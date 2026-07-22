@@ -1,399 +1,399 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3854.jpg?24823" ,RTS 1
+#EXTINF:-1 tvg-id="RTS 1.rs" tvg-name="RTS 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3854.jpg?24823" ,RTS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460923&extension=m3u8&play_token=0HNFXhWrpR
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?72676" ,RTS 2
+#EXTINF:-1 tvg-id="RTS 2 .rs" tvg-name="RTS 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?72676" ,RTS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460922&extension=m3u8&play_token=emXlHIyXVj
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3853.jpg?54536" ,RTS 3
+#EXTINF:-1 tvg-id="RTS 3.rs" tvg-name="RTS 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3853.jpg?54536" ,RTS 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460921&extension=m3u8&play_token=3JA0yKOv9w
-#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3909.png?65799" ,N1
+#EXTINF:-1 tvg-id="TV K::CN 1.rs" tvg-name="N1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3909.png?65799" ,N1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460920&extension=m3u8&play_token=31LJ7y3WEo
-#EXTINF:-1 tvg-id="Unknown" tvg-name="RT VOJVODINA 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3015.png?60496" ,RT VOJVODINA 1
+#EXTINF:-1 tvg-id="Unknown" tvg-name="RT VOJVODINA 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3015.png?60496" ,RT VOJVODINA 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460919&extension=m3u8&play_token=FoNaKKszB8
-#EXTINF:-1 tvg-id="Unknown" tvg-name="RT VOJVODINA 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3015.png?60496" ,RT VOJVODINA 2
+#EXTINF:-1 tvg-id="Unknown" tvg-name="RT VOJVODINA 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3015.png?60496" ,RT VOJVODINA 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460918&extension=m3u8&play_token=e4DWLtTnw2
-#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="PINK"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3901.png?25894" ,PINK
+#EXTINF:-1 tvg-id="Pink Action.rs" tvg-name="PINK"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3901.png?25894" ,PINK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460917&extension=m3u8&play_token=I5ID85h70b
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="PRVA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3864.png?62007" ,PRVA
+#EXTINF:-1 tvg-id="Prva CG.rs" tvg-name="PRVA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3864.png?62007" ,PRVA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460916&extension=m3u8&play_token=SuJ6CXOqpy
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6589.png?62104" ,B92
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6589.png?62104" ,B92
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460915&extension=m3u8&play_token=eciemDFnt6
-#EXTINF:-1 tvg-id="HappyTV.rs" tvg-name="HAPPY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?88739" ,HAPPY
+#EXTINF:-1 tvg-id="Happy Reality 1.rs" tvg-name="HAPPY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?88739" ,HAPPY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460914&extension=m3u8&play_token=DSj75YxlnH
-#EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="KURIR TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8473.png?54793" ,KURIR TV
+#EXTINF:-1 tvg-id="Kurir TV.rs" tvg-name="KURIR TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8473.png?54793" ,KURIR TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460913&extension=m3u8&play_token=8w9AyRogQI
-#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="STUDIO B"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11396.png?80572" ,STUDIO B
+#EXTINF:-1 tvg-id="Radio Studio B.rs" tvg-name="STUDIO B"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11396.png?80572" ,STUDIO B
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460912&extension=m3u8&play_token=tmz9RqzpZp
-#EXTINF:-1 tvg-id="VESTI.rs" tvg-name="VESTI"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,VESTI
+#EXTINF:-1 tvg-id="Crime and Investigation.rs" tvg-name="VESTI"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,VESTI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460911&extension=m3u8&play_token=gevmoSXmMF
-#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="RED TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/320.png?24472" ,RED TV
+#EXTINF:-1 tvg-id="Red TV.rs" tvg-name="RED TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/320.png?24472" ,RED TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460910&extension=m3u8&play_token=K8v8K27wwT
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV TANJUG"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10961.jpg?81301" ,TV TANJUG
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV TANJUG"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10961.jpg?81301" ,TV TANJUG
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460909&extension=m3u8&play_token=6RAPoNERlU
-#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="BLIC TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6093.jpg?49730" ,BLIC TV
+#EXTINF:-1 tvg-id="Blic TV.rs" tvg-name="BLIC TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6093.jpg?49730" ,BLIC TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460908&extension=m3u8&play_token=nqa466AhMw
-#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="INFORMER TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11031.png?95020" ,INFORMER TV
+#EXTINF:-1 tvg-id="Informer TV.rs" tvg-name="INFORMER TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11031.png?95020" ,INFORMER TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460907&extension=m3u8&play_token=YmaQdtSw2C
-#EXTINF:-1 tvg-id="Klasik.rs" tvg-name="KLASIK TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3790.jpg?9123" ,KLASIK TV
+#EXTINF:-1 tvg-id="Unknown" tvg-name="KLASIK TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3790.jpg?9123" ,KLASIK TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460906&extension=m3u8&play_token=njyES1HvDa
-#EXTINF:-1 tvg-id="K1.rs" tvg-name="K1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3831.png?32852" ,K1
+#EXTINF:-1 tvg-id="K1.rs" tvg-name="K1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3831.png?32852" ,K1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460905&extension=m3u8&play_token=xx60tluAsQ
-#EXTINF:-1 tvg-id="AgroTV.rs" tvg-name="AGRO TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8331.png?54362" ,AGRO TV
+#EXTINF:-1 tvg-id="Agro TV.rs" tvg-name="AGRO TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8331.png?54362" ,AGRO TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460904&extension=m3u8&play_token=STzTP2LhtW
-#EXTINF:-1 tvg-id="Unknown" tvg-name="EKO VIZIJA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3160.jpg?23846" ,EKO VIZIJA
+#EXTINF:-1 tvg-id="Eko vizija.rs" tvg-name="EKO VIZIJA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3160.jpg?23846" ,EKO VIZIJA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460903&extension=m3u8&play_token=lJS4YRgZBc
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV HYPE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12986.jpg?90036" ,TV HYPE
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV HYPE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12986.jpg?90036" ,TV HYPE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460902&extension=m3u8&play_token=FzNBdhkBqF
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV HYPE 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12986.jpg?90036" ,TV HYPE 2
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV HYPE 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12986.jpg?90036" ,TV HYPE 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460901&extension=m3u8&play_token=fA9E06Gbgz
-#EXTINF:-1 tvg-id="Unknown" tvg-name="KUVO TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14335.png?72670" ,KUVO TV
+#EXTINF:-1 tvg-id="Kuvo TV.rs" tvg-name="KUVO TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14335.png?72670" ,KUVO TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460900&extension=m3u8&play_token=FeZAov3Fru
-#EXTINF:-1 tvg-id="Unknown" tvg-name="SLOBODNA TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14336.png?38148" ,SLOBODNA TV
+#EXTINF:-1 tvg-id="Unknown" tvg-name="SLOBODNA TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14336.png?38148" ,SLOBODNA TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460899&extension=m3u8&play_token=AZ978CGQoJ
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS KANAL PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14337.png?10403" ,SOS KANAL PLUS
+#EXTINF:-1 tvg-id="SOS Kanal Plus.rs" tvg-name="SOS KANAL PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14337.png?10403" ,SOS KANAL PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460898&extension=m3u8&play_token=l71TsRBqHE
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="PRVA MAX"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3858.png?77825" ,PRVA MAX
+#EXTINF:-1 tvg-id="Prva MAX.rs" tvg-name="PRVA MAX"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3858.png?77825" ,PRVA MAX
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460897&extension=m3u8&play_token=C9dPF9iqJq
-#EXTINF:-1 tvg-id="Prvaplus.rs" tvg-name="PRVA PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3862.png?5632" ,PRVA PLUS
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PRVA PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3862.png?5632" ,PRVA PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460896&extension=m3u8&play_token=3ASNoHANeD
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="PRVA FILES"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14339.png?48369" ,PRVA FILES
+#EXTINF:-1 tvg-id="Prva Files.rs" tvg-name="PRVA FILES"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14339.png?48369" ,PRVA FILES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460895&extension=m3u8&play_token=GKmKOmBhvJ
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="PRVA LIFE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14340.jpg?29463" ,PRVA LIFE
+#EXTINF:-1 tvg-id="Prva Life.rs" tvg-name="PRVA LIFE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14340.jpg?29463" ,PRVA LIFE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460894&extension=m3u8&play_token=oQvOWl3SxB
-#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="PRVA KICK"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14341.jpg?16226" ,PRVA KICK
+#EXTINF:-1 tvg-id="Prva Kick.rs" tvg-name="PRVA KICK"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14341.jpg?16226" ,PRVA KICK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460893&extension=m3u8&play_token=lhTncvb7o5
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="PRVA WORLD"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14342.png?28754" ,PRVA WORLD
+#EXTINF:-1 tvg-id="Prva World.rs" tvg-name="PRVA WORLD"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14342.png?28754" ,PRVA WORLD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460892&extension=m3u8&play_token=8k5sKoFroe
-#EXTINF:-1 tvg-id="Insajder.rs" tvg-name="INSAJDER"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14343.jpg?82243" ,INSAJDER
+#EXTINF:-1 tvg-id="Insajder.rs" tvg-name="INSAJDER"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14343.jpg?82243" ,INSAJDER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460891&extension=m3u8&play_token=nOk3YGRyHM
-#EXTINF:-1 tvg-id="Unknown" tvg-name="HAPPY REALITY 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?31503" ,HAPPY REALITY 1
+#EXTINF:-1 tvg-id="Happy Reality 1.rs" tvg-name="HAPPY REALITY 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?31503" ,HAPPY REALITY 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460890&extension=m3u8&play_token=K13sIp0LnN
-#EXTINF:-1 tvg-id="Unknown" tvg-name="HAPPY REALITY 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?31503" ,HAPPY REALITY 2
+#EXTINF:-1 tvg-id="Happy Reality 2.rs" tvg-name="HAPPY REALITY 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13051.jpg?31503" ,HAPPY REALITY 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460889&extension=m3u8&play_token=qK8KnfNYjL
-#EXTINF:-1 tvg-id="RTSKolo.rs" tvg-name="RTS KOLO"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14344.jpg?60206" ,RTS KOLO
+#EXTINF:-1 tvg-id="RTS Kolo.rs" tvg-name="RTS KOLO"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14344.jpg?60206" ,RTS KOLO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460888&extension=m3u8&play_token=oMVcvCq67x
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS MUZIKA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS MUZIKA
+#EXTINF:-1 tvg-id="RTS Muzika.rs" tvg-name="RTS MUZIKA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS MUZIKA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460887&extension=m3u8&play_token=8g26yzK4sq
-#EXTINF:-1 tvg-id="Klasik.rs" tvg-name="RTS KLASIKA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS KLASIKA
+#EXTINF:-1 tvg-id="RTS Klasika.rs" tvg-name="RTS KLASIKA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS KLASIKA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460886&extension=m3u8&play_token=7V2Dlln2wV
-#EXTINF:-1 tvg-id="ToxicTV.rs" tvg-name="TOXIC TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6033.jpg?63617" ,TOXIC TV
+#EXTINF:-1 tvg-id="Toxic TV.rs" tvg-name="TOXIC TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6033.jpg?63617" ,TOXIC TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460885&extension=m3u8&play_token=8aKOcaZJgL
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TOXIC FOLK"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/901.jpg?80580" ,TOXIC FOLK
+#EXTINF:-1 tvg-id="Toxic Folk.rs" tvg-name="TOXIC FOLK"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/901.jpg?80580" ,TOXIC FOLK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460884&extension=m3u8&play_token=4GXTscXmbY
-#EXTINF:-1 tvg-id="Grand.rs" tvg-name="GRAND 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3932.png?35127" ,GRAND 1
+#EXTINF:-1 tvg-id="Unknown" tvg-name="GRAND 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3932.png?35127" ,GRAND 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460883&extension=m3u8&play_token=j7uED1seDu
-#EXTINF:-1 tvg-id="N1.rs" tvg-name="KCN 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 1
+#EXTINF:-1 tvg-id="TV K::CN 1.rs" tvg-name="KCN 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460882&extension=m3u8&play_token=ApLQuYqry2
-#EXTINF:-1 tvg-id="Unknown" tvg-name="KCN 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 2
+#EXTINF:-1 tvg-id="Unknown" tvg-name="KCN 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460881&extension=m3u8&play_token=d96IOeWAhO
-#EXTINF:-1 tvg-id="Unknown" tvg-name="KCN 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 3
+#EXTINF:-1 tvg-id="Unknown" tvg-name="KCN 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3920.png?1836" ,KCN 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460880&extension=m3u8&play_token=ZFRBoA4k2j
-#EXTINF:-1 tvg-id="Unknown" tvg-name="FILMBOX ARTHOUSE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX ARTHOUSE
+#EXTINF:-1 tvg-id="Unknown" tvg-name="FILMBOX ARTHOUSE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX ARTHOUSE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460879&extension=m3u8&play_token=kGrBs7JUUs
-#EXTINF:-1 tvg-id="FilmboxExtra.rs" tvg-name="FILMBOX EXTRA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX EXTRA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="FILMBOX EXTRA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX EXTRA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460878&extension=m3u8&play_token=b4uZzMaW7F
-#EXTINF:-1 tvg-id="FilmboxPremium.rs" tvg-name="FILMBOX PREMIUM"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX PREMIUM
+#EXTINF:-1 tvg-id="Unknown" tvg-name="FILMBOX PREMIUM"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX PREMIUM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460877&extension=m3u8&play_token=tKChtUVAop
-#EXTINF:-1 tvg-id="Star.rs" tvg-name="FILMBOX STARS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX STARS
+#EXTINF:-1 tvg-id="Unknown" tvg-name="FILMBOX STARS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2290.jpg?50447" ,FILMBOX STARS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460876&extension=m3u8&play_token=RqWk0g7bSF
-#EXTINF:-1 tvg-id="HBO.rs" tvg-name="HBO 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?89562" ,HBO 1
+#EXTINF:-1 tvg-id="Unknown" tvg-name="HBO 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?89562" ,HBO 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460875&extension=m3u8&play_token=4YS6CdvhD8
-#EXTINF:-1 tvg-id="HBO2.rs" tvg-name="HBO 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4009.jpg?21973" ,HBO 2
+#EXTINF:-1 tvg-id="HBO 2.rs" tvg-name="HBO 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4009.jpg?21973" ,HBO 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460874&extension=m3u8&play_token=NGV4PfOg2i
-#EXTINF:-1 tvg-id="HBO3.rs" tvg-name="HBO 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1918.jpg?74714" ,HBO 3
+#EXTINF:-1 tvg-id="HBO 3.rs" tvg-name="HBO 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1918.jpg?74714" ,HBO 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460873&extension=m3u8&play_token=nvkfTGhwPU
-#EXTINF:-1 tvg-id="SUPERSTARTV.rs" tvg-name="SUPERSTAR TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR TV
+#EXTINF:-1 tvg-id="Superstar TV.rs" tvg-name="SUPERSTAR TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460872&extension=m3u8&play_token=2OY5RdCRvU
-#EXTINF:-1 tvg-id="SUPERSTAR2.rs" tvg-name="SUPERSTAR 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR 2
+#EXTINF:-1 tvg-id="SUPERSTAR 2.rs" tvg-name="SUPERSTAR 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460871&extension=m3u8&play_token=Am6DDL6T5P
-#EXTINF:-1 tvg-id="Superstar3.rs" tvg-name="SUPERSTAR 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR 3
+#EXTINF:-1 tvg-id="SUPERSTAR 3.rs" tvg-name="SUPERSTAR 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12516.png?25062" ,SUPERSTAR 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460870&extension=m3u8&play_token=sBN0YXH18t
-#EXTINF:-1 tvg-id="Star.rs" tvg-name="STAR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14164.png?25136" ,STAR
+#EXTINF:-1 tvg-id="RTV Stara Pazova.rs" tvg-name="STAR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14164.png?25136" ,STAR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460869&extension=m3u8&play_token=0CuT6kOu9X
-#EXTINF:-1 tvg-id="StarLife.rs" tvg-name="STAR LIFE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14165.png?84269" ,STAR LIFE
+#EXTINF:-1 tvg-id="Star Life.rs" tvg-name="STAR LIFE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14165.png?84269" ,STAR LIFE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460868&extension=m3u8&play_token=V59HpcIxHq
-#EXTINF:-1 tvg-id="StarCrime.rs" tvg-name="STAR CRIME"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13924.png?26410" ,STAR CRIME
+#EXTINF:-1 tvg-id="Star Crime.rs" tvg-name="STAR CRIME"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13924.png?26410" ,STAR CRIME
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460867&extension=m3u8&play_token=1F1QuGIiKB
-#EXTINF:-1 tvg-id="StarMovies.rs" tvg-name="STAR MOVIES"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6655.png?8047" ,STAR MOVIES
+#EXTINF:-1 tvg-id="Star Movies.rs" tvg-name="STAR MOVIES"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6655.png?8047" ,STAR MOVIES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460866&extension=m3u8&play_token=QKOkhDwbmj
-#EXTINF:-1 tvg-id="Unknown" tvg-name="AXN"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10157.jpg?25915" ,AXN
+#EXTINF:-1 tvg-id="AXN Spin.rs" tvg-name="AXN"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10157.jpg?25915" ,AXN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460865&extension=m3u8&play_token=WtI7ZgcPxM
-#EXTINF:-1 tvg-id="TimelessDizi.rs" tvg-name="TIMELESS DIZI CHANNEL"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3034.jpg?92496" ,TIMELESS DIZI CHANNEL
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TIMELESS DIZI CHANNEL"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3034.jpg?92496" ,TIMELESS DIZI CHANNEL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460864&extension=m3u8&play_token=b4S8AP3GLF
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV1000"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7884.png?64268" ,TV1000
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV1000"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7884.png?64268" ,TV1000
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460863&extension=m3u8&play_token=aSgGb0RqV5
-#EXTINF:-1 tvg-id="EpicDrama.rs" tvg-name="EPIC DRAMA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1942.png?64450" ,EPIC DRAMA
+#EXTINF:-1 tvg-id="Viasat Epic Drama.rs" tvg-name="EPIC DRAMA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1942.png?64450" ,EPIC DRAMA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460862&extension=m3u8&play_token=qBPeIMnoeb
-#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="SCI FI"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2984.png?4425" ,SCI FI
+#EXTINF:-1 tvg-id="Pink Sci Fi And Fantasy.rs" tvg-name="SCI FI"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2984.png?4425" ,SCI FI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460861&extension=m3u8&play_token=UoC02gbcSS
-#EXTINF:-1 tvg-id="EuroCinema1.rs" tvg-name="EURO CINEMA 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14345.jpg?27951" ,EURO CINEMA 1
+#EXTINF:-1 tvg-id="Euro Cinema 1.rs" tvg-name="EURO CINEMA 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14345.jpg?27951" ,EURO CINEMA 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460860&extension=m3u8&play_token=JsmJp7cBiQ
-#EXTINF:-1 tvg-id="EuroCinema2.rs" tvg-name="EURO CINEMA 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14346.jpg?94637" ,EURO CINEMA 2
+#EXTINF:-1 tvg-id="Euro Cinema 2.rs" tvg-name="EURO CINEMA 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14346.jpg?94637" ,EURO CINEMA 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460859&extension=m3u8&play_token=qQYAKowESc
-#EXTINF:-1 tvg-id="EuroCinema3.rs" tvg-name="EURO CINEMA 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14347.png?68714" ,EURO CINEMA 3
+#EXTINF:-1 tvg-id="Euro Cinema 3.rs" tvg-name="EURO CINEMA 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14347.png?68714" ,EURO CINEMA 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460858&extension=m3u8&play_token=j0sLEVwcq8
-#EXTINF:-1 tvg-id="EuroCinema4.rs" tvg-name="EURO CINEMA 4"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14348.png?99890" ,EURO CINEMA 4
+#EXTINF:-1 tvg-id="Euro Cinema 4.rs" tvg-name="EURO CINEMA 4"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14348.png?99890" ,EURO CINEMA 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460857&extension=m3u8&play_token=VWePtF6dlC
-#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="RTS DRAMA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS DRAMA
+#EXTINF:-1 tvg-id="RTS Drama.rs" tvg-name="RTS DRAMA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS DRAMA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460856&extension=m3u8&play_token=CxqoaIkDlR
-#EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTS TREZOR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS TREZOR
+#EXTINF:-1 tvg-id="RTS Trezor.rs" tvg-name="RTS TREZOR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS TREZOR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460855&extension=m3u8&play_token=3HeSs9G2x9
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="ARENA PREMIUM 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3986.png?86725" ,ARENA PREMIUM 1
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-name="ARENA PREMIUM 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3986.png?86725" ,ARENA PREMIUM 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460854&extension=m3u8&play_token=h6MXYk3ES7
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="ARENA PREMIUM 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3762.png?52680" ,ARENA PREMIUM 2
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-name="ARENA PREMIUM 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3762.png?52680" ,ARENA PREMIUM 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460853&extension=m3u8&play_token=hEpe3qTcwK
-#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="ARENA PREMIUM 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?16576" ,ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-name="ARENA PREMIUM 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?16576" ,ARENA PREMIUM 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460852&extension=m3u8&play_token=3e7Et6wlsV
-#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="ARENA SPORT 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?35228" ,ARENA SPORT 1
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="ARENA SPORT 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?35228" ,ARENA SPORT 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460851&extension=m3u8&play_token=l4Mb6ZZD1K
-#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="ARENA SPORT 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?28579" ,ARENA SPORT 2
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="ARENA SPORT 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?28579" ,ARENA SPORT 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460850&extension=m3u8&play_token=On7yO1ZZO0
-#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="ARENA SPORT 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?16576" ,ARENA SPORT 3
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="ARENA SPORT 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?16576" ,ARENA SPORT 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460849&extension=m3u8&play_token=6OcaUKVfIt
-#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="ARENA SPORT 4"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?21959" ,ARENA SPORT 4
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="ARENA SPORT 4"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?21959" ,ARENA SPORT 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460848&extension=m3u8&play_token=MeTDqr7YgX
-#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="ARENA SPORT 5"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3766.png?51794" ,ARENA SPORT 5
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-name="ARENA SPORT 5"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3766.png?51794" ,ARENA SPORT 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460847&extension=m3u8&play_token=wGcuiWNVEf
-#EXTINF:-1 tvg-id="ArenaSport6.rs" tvg-name="ARENA SPORT 6"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?87305" ,ARENA SPORT 6
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-name="ARENA SPORT 6"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?87305" ,ARENA SPORT 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460846&extension=m3u8&play_token=j0BJmKFlKh
-#EXTINF:-1 tvg-id="ArenaSport7.rs" tvg-name="ARENA SPORT 7"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?42941" ,ARENA SPORT 7
+#EXTINF:-1 tvg-id="Arena Sport 7.rs" tvg-name="ARENA SPORT 7"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?42941" ,ARENA SPORT 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460845&extension=m3u8&play_token=84kXKTwEXK
-#EXTINF:-1 tvg-id="ArenaSport8.rs" tvg-name="ARENA SPORT 8"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3994.png?36555" ,ARENA SPORT 8
+#EXTINF:-1 tvg-id="Arena Sport 8.rs" tvg-name="ARENA SPORT 8"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3994.png?36555" ,ARENA SPORT 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460844&extension=m3u8&play_token=d02l9WDIx9
-#EXTINF:-1 tvg-id="ArenaSport9.rs" tvg-name="ARENA SPORT 9"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11055.png?55335" ,ARENA SPORT 9
+#EXTINF:-1 tvg-id="Arena Sport 9.rs" tvg-name="ARENA SPORT 9"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11055.png?55335" ,ARENA SPORT 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460843&extension=m3u8&play_token=y9AVdWq0Tx
-#EXTINF:-1 tvg-id="ArenaSport10.rs" tvg-name="ARENA SPORT 10"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11121.png?8415" ,ARENA SPORT 10
+#EXTINF:-1 tvg-id="Arena Sport 10.rs" tvg-name="ARENA SPORT 10"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11121.png?8415" ,ARENA SPORT 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460842&extension=m3u8&play_token=MwXY497YXn
-#EXTINF:-1 tvg-id="PremierLeagueTV.rs" tvg-name="PREMIER LEAGUE TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7733.jpg?52033" ,PREMIER LEAGUE TV
+#EXTINF:-1 tvg-id="Premier League TV.rs" tvg-name="PREMIER LEAGUE TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7733.jpg?52033" ,PREMIER LEAGUE TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460841&extension=m3u8&play_token=wierFVsV5d
-#EXTINF:-1 tvg-id="Unknown" tvg-name="ARENA 1X2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14350.png?70684" ,ARENA 1X2
+#EXTINF:-1 tvg-id="Unknown" tvg-name="ARENA 1X2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14350.png?70684" ,ARENA 1X2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460840&extension=m3u8&play_token=KOecCRdi2f
-#EXTINF:-1 tvg-id="ArenaFight.rs" tvg-name="ARENA FIGHT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11124.png?46432" ,ARENA FIGHT
+#EXTINF:-1 tvg-id="Arena Fight.rs" tvg-name="ARENA FIGHT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11124.png?46432" ,ARENA FIGHT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460839&extension=m3u8&play_token=JW1d7lHBXP
-#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-name="ARENA ESPORT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14260.png?56873" ,ARENA ESPORT
+#EXTINF:-1 tvg-id="Arena Esport.rs" tvg-name="ARENA ESPORT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14260.png?56873" ,ARENA ESPORT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460838&extension=m3u8&play_token=Ah7PfMOpqC
-#EXTINF:-1 tvg-id="Unknown" tvg-name="LFCTV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14351.png?49521" ,LFCTV
+#EXTINF:-1 tvg-id="LFCTV.rs" tvg-name="LFCTV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14351.png?49521" ,LFCTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460837&extension=m3u8&play_token=hMwjVrtyo3
-#EXTINF:-1 tvg-id="Unknown" tvg-name="ZVEZDA TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14352.png?96889" ,ZVEZDA TV
+#EXTINF:-1 tvg-id="Zvezda TV.rs" tvg-name="ZVEZDA TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14352.png?96889" ,ZVEZDA TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460836&extension=m3u8&play_token=1VWANzlCtK
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV PARTIZAN"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14353.png?68675" ,TV PARTIZAN
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV PARTIZAN"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14353.png?68675" ,TV PARTIZAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460835&extension=m3u8&play_token=rYSBmoAylq
-#EXTINF:-1 tvg-id="Eurosport1.rs" tvg-name="EUROSPORT 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?45950" ,EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport 1 HD.rs" tvg-name="EUROSPORT 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?45950" ,EUROSPORT 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460834&extension=m3u8&play_token=JNb79IOocI
-#EXTINF:-1 tvg-id="Eurosport2.rs" tvg-name="EUROSPORT 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?45950" ,EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport 2 HD.rs" tvg-name="EUROSPORT 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?45950" ,EUROSPORT 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460833&extension=m3u8&play_token=7aBuUVhR3N
-#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="PINK PREMIUM"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3874.jpg?66861" ,PINK PREMIUM
+#EXTINF:-1 tvg-id="Pink Premium.rs" tvg-name="PINK PREMIUM"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3874.jpg?66861" ,PINK PREMIUM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460832&extension=m3u8&play_token=mnOMCVSeLZ
-#EXTINF:-1 tvg-id="LOL.rs" tvg-name="PINK LOL"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3877.jpg?45722" ,PINK LOL
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK LOL"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3877.jpg?45722" ,PINK LOL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460831&extension=m3u8&play_token=hwldiu4C1U
-#EXTINF:-1 tvg-id="HAHA.rs" tvg-name="PINK HAHA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3904.jpg?74087" ,PINK HAHA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK HAHA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3904.jpg?74087" ,PINK HAHA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460830&extension=m3u8&play_token=ptakO96WVD
-#EXTINF:-1 tvg-id="PinkKids.rs" tvg-name="PINK KIDS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3869.jpg?89188" ,PINK KIDS
+#EXTINF:-1 tvg-id="Pink Kids.rs" tvg-name="PINK KIDS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3869.jpg?89188" ,PINK KIDS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460829&extension=m3u8&play_token=1eYHFdkNiv
-#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="PINK ACTION"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3895.png?84423" ,PINK ACTION
+#EXTINF:-1 tvg-id="Pink Action.rs" tvg-name="PINK ACTION"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3895.png?84423" ,PINK ACTION
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460828&extension=m3u8&play_token=wtmloV7x8R
-#EXTINF:-1 tvg-id="PinkHorror.rs" tvg-name="PINK HORROR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3871.png?86178" ,PINK HORROR
+#EXTINF:-1 tvg-id="Pink Horror.rs" tvg-name="PINK HORROR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3871.png?86178" ,PINK HORROR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460827&extension=m3u8&play_token=VBglPeXTnt
-#EXTINF:-1 tvg-id="PinkHits1.rs" tvg-name="PINK HITS 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3903.jpg?57751" ,PINK HITS 1
+#EXTINF:-1 tvg-id="Pink Hits 1.rs" tvg-name="PINK HITS 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3903.jpg?57751" ,PINK HITS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460826&extension=m3u8&play_token=xD1DxskoOY
-#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="PINK MOVIES"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3876.jpg?65235" ,PINK MOVIES
+#EXTINF:-1 tvg-id="Pink Movies.rs" tvg-name="PINK MOVIES"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3876.jpg?65235" ,PINK MOVIES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460825&extension=m3u8&play_token=ZNdyvFaIvt
-#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="PINK FILM"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11578.jpg?78210" ,PINK FILM
+#EXTINF:-1 tvg-id="Pink Film.rs" tvg-name="PINK FILM"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11578.jpg?78210" ,PINK FILM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460824&extension=m3u8&play_token=Viz3kl7Zwu
-#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="PINK THRILLER"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6053.png?77152" ,PINK THRILLER
+#EXTINF:-1 tvg-id="Pink Thriller.rs" tvg-name="PINK THRILLER"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6053.png?77152" ,PINK THRILLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460823&extension=m3u8&play_token=GMlFAWAyFx
-#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="PINK COMEDY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6106.png?33498" ,PINK COMEDY
+#EXTINF:-1 tvg-id="Pink Comedy.rs" tvg-name="PINK COMEDY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6106.png?33498" ,PINK COMEDY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460822&extension=m3u8&play_token=kNve5qk1st
-#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-name="PINK SUPER KIDS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3869.jpg?89188" ,PINK SUPER KIDS
+#EXTINF:-1 tvg-id="Pink Super Kids.rs" tvg-name="PINK SUPER KIDS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3869.jpg?89188" ,PINK SUPER KIDS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460821&extension=m3u8&play_token=8Kspd30wMu
-#EXTINF:-1 tvg-id="PinkKoncert.rs" tvg-name="PINK KONCERT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3882.png?63150" ,PINK KONCERT
+#EXTINF:-1 tvg-id="Pink Koncert.rs" tvg-name="PINK KONCERT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3882.png?63150" ,PINK KONCERT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460820&extension=m3u8&play_token=clVRQyrw2z
-#EXTINF:-1 tvg-id="PinkFolk2.rs" tvg-name="PINK FOLK 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3886.png?54226" ,PINK FOLK 2
+#EXTINF:-1 tvg-id="Pink Folk 2.rs" tvg-name="PINK FOLK 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3886.png?54226" ,PINK FOLK 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460819&extension=m3u8&play_token=w3kueCN0Jn
-#EXTINF:-1 tvg-id="PinkAndRoll.rs" tvg-name="PINK&ROLL"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14354.png?62229" ,PINK&ROLL
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK&ROLL"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14354.png?62229" ,PINK&ROLL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460818&extension=m3u8&play_token=EI0kDC40oU
-#EXTINF:-1 tvg-id="PinkHits2.rs" tvg-name="PINK HITS 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3903.jpg?57751" ,PINK HITS 2
+#EXTINF:-1 tvg-id="Pink Hits 2.rs" tvg-name="PINK HITS 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3903.jpg?57751" ,PINK HITS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460817&extension=m3u8&play_token=Dd31eCp3ds
-#EXTINF:-1 tvg-id="PinkMusic.rs" tvg-name="PINK MUSIC"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8467.jpg?1481" ,PINK MUSIC
+#EXTINF:-1 tvg-id="Pink Music 2.rs" tvg-name="PINK MUSIC"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8467.jpg?1481" ,PINK MUSIC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460816&extension=m3u8&play_token=Zy1hrG1L16
-#EXTINF:-1 tvg-id="PinkClassic.rs" tvg-name="PINK CLASSIC"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6105.jpg?17121" ,PINK CLASSIC
+#EXTINF:-1 tvg-id="Pink Classic.rs" tvg-name="PINK CLASSIC"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6105.jpg?17121" ,PINK CLASSIC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460815&extension=m3u8&play_token=CPkXq2Ig9B
-#EXTINF:-1 tvg-id="PinkCrimeAndMystery.rs" tvg-name="PINK CRIME & MYSTERY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6115.png?7042" ,PINK CRIME & MYSTERY
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK CRIME & MYSTERY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6115.png?7042" ,PINK CRIME & MYSTERY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460814&extension=m3u8&play_token=ObVI7aW7mw
-#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="PINK FAMILY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3889.png?1259" ,PINK FAMILY
+#EXTINF:-1 tvg-id="Pink Family.rs" tvg-name="PINK FAMILY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3889.png?1259" ,PINK FAMILY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460813&extension=m3u8&play_token=6olOWUVz8b
-#EXTINF:-1 tvg-id="PinkFashion.rs" tvg-name="PINK FASHION"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5999.jpg?95317" ,PINK FASHION
+#EXTINF:-1 tvg-id="Pink Fashion.rs" tvg-name="PINK FASHION"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5999.jpg?95317" ,PINK FASHION
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460812&extension=m3u8&play_token=E9kx9CcaXn
-#EXTINF:-1 tvg-id="PinkFolk.rs" tvg-name="PINK FOLK"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3886.png?54226" ,PINK FOLK
+#EXTINF:-1 tvg-id="Pink Folk 2.rs" tvg-name="PINK FOLK"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3886.png?54226" ,PINK FOLK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460811&extension=m3u8&play_token=Frr4qbib1S
-#EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-name="PINK KUVAR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3879.png?37644" ,PINK KUVAR
+#EXTINF:-1 tvg-id="Pink Kuvar.rs" tvg-name="PINK KUVAR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3879.png?37644" ,PINK KUVAR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460810&extension=m3u8&play_token=TSRBi2NwxB
-#EXTINF:-1 tvg-id="PinkMusic2.rs" tvg-name="PINK MUSIC 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8467.jpg?14817" ,PINK MUSIC 2
+#EXTINF:-1 tvg-id="Pink Music 2.rs" tvg-name="PINK MUSIC 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8467.jpg?14817" ,PINK MUSIC 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460809&extension=m3u8&play_token=FSobggj9uh
-#EXTINF:-1 tvg-id="PinkPedia.rs" tvg-name="PINK PEDIA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3883.jpg?70862" ,PINK PEDIA
+#EXTINF:-1 tvg-id="Pink Pedia.rs" tvg-name="PINK PEDIA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3883.jpg?70862" ,PINK PEDIA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460808&extension=m3u8&play_token=oHVfC6Cp3r
-#EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="PINK PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3875.jpg?90723" ,PINK PLUS
+#EXTINF:-1 tvg-id="Pink Plus.rs" tvg-name="PINK PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3875.jpg?90723" ,PINK PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460807&extension=m3u8&play_token=axVsl8TgpG
-#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="PINK REALITY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6065.png?75774" ,PINK REALITY
+#EXTINF:-1 tvg-id="Pink Reality.rs" tvg-name="PINK REALITY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6065.png?75774" ,PINK REALITY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460806&extension=m3u8&play_token=CH5d7Yzw6Z
-#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="PINK ROMANCE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3868.png?58637" ,PINK ROMANCE
+#EXTINF:-1 tvg-id="Pink Romance.rs" tvg-name="PINK ROMANCE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3868.png?58637" ,PINK ROMANCE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460805&extension=m3u8&play_token=bEQLsUf091
-#EXTINF:-1 tvg-id="PinkSci-FiAndFantasy.rs" tvg-name="PINK SCI-FI & FANTASY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3872.jpg?98914" ,PINK SCI-FI & FANTASY
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK SCI-FI & FANTASY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3872.jpg?98914" ,PINK SCI-FI & FANTASY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460804&extension=m3u8&play_token=9KROcRNgpT
-#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-name="PINK SERIJE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6050.jpg?78393" ,PINK SERIJE
+#EXTINF:-1 tvg-id="Pink Serije.rs" tvg-name="PINK SERIJE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6050.jpg?78393" ,PINK SERIJE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460803&extension=m3u8&play_token=iH3ZmfS2PP
-#EXTINF:-1 tvg-id="PinkShow.rs" tvg-name="PINK SHOW"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6104.jpg?86707" ,PINK SHOW
+#EXTINF:-1 tvg-id="Pink Show.rs" tvg-name="PINK SHOW"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6104.jpg?86707" ,PINK SHOW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460802&extension=m3u8&play_token=ra9dhZClLA
-#EXTINF:-1 tvg-id="PinkSoap.rs" tvg-name="PINK SOAP"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6104.jpg?23443" ,PINK SOAP
+#EXTINF:-1 tvg-id="Pink Soap.rs" tvg-name="PINK SOAP"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6104.jpg?23443" ,PINK SOAP
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460801&extension=m3u8&play_token=EpBvbb6oK5
-#EXTINF:-1 tvg-id="PinkStyle.rs" tvg-name="PINK STYLE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6052.jpg?37809" ,PINK STYLE
+#EXTINF:-1 tvg-id="Pink Style.rs" tvg-name="PINK STYLE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6052.jpg?37809" ,PINK STYLE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460800&extension=m3u8&play_token=6F3g3zV2L7
-#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="PINK WESTERN"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6057.jpg?44668" ,PINK WESTERN
+#EXTINF:-1 tvg-id="Pink Western.rs" tvg-name="PINK WESTERN"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6057.jpg?44668" ,PINK WESTERN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460799&extension=m3u8&play_token=flMbahcnT8
-#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-name="PINK WORLD"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3860.jpg?35727" ,PINK WORLD
+#EXTINF:-1 tvg-id="Pink World Cinema.rs" tvg-name="PINK WORLD"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3860.jpg?35727" ,PINK WORLD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460798&extension=m3u8&play_token=4dLLewAYox
-#EXTINF:-1 tvg-id="PinkWorldCinema.rs" tvg-name="PINK WORLD CINEMA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3860.jpg?35727" ,PINK WORLD CINEMA
+#EXTINF:-1 tvg-id="Pink World Cinema.rs" tvg-name="PINK WORLD CINEMA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3860.jpg?35727" ,PINK WORLD CINEMA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460797&extension=m3u8&play_token=aoOlc5ImUQ
-#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-name="PINK ZABAVA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3859.jpg?99133" ,PINK ZABAVA
+#EXTINF:-1 tvg-id="Pink Zabava.rs" tvg-name="PINK ZABAVA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3859.jpg?99133" ,PINK ZABAVA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460796&extension=m3u8&play_token=oBjgudpSoE
-#EXTINF:-1 tvg-id="PinkExtra.rs" tvg-name="PINK EXTRA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3890.png?24658" ,PINK EXTRA
+#EXTINF:-1 tvg-id="Pink Extra.rs" tvg-name="PINK EXTRA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3890.png?24658" ,PINK EXTRA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460795&extension=m3u8&play_token=eNzKgNghI0
-#EXTINF:-1 tvg-id="Kazbuka.rs" tvg-name="KAZBUKA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14356.jpg?95618" ,KAZBUKA
+#EXTINF:-1 tvg-id="Kazbuka.rs" tvg-name="KAZBUKA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14356.jpg?95618" ,KAZBUKA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460794&extension=m3u8&play_token=hZkIwOUz0Y
-#EXTINF:-1 tvg-id="DexyTV.rs" tvg-name="DEXY TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14357.jpg?42282" ,DEXY TV
+#EXTINF:-1 tvg-id="Dexy TV.rs" tvg-name="DEXY TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14357.jpg?42282" ,DEXY TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460793&extension=m3u8&play_token=X4R5WrFTcE
-#EXTINF:-1 tvg-id="DoxTV.rs" tvg-name="DOX"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1071.png?39521" ,DOX
+#EXTINF:-1 tvg-id="Dox TV.rs" tvg-name="DOX"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1071.png?39521" ,DOX
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460792&extension=m3u8&play_token=GCi4i36BSV
-#EXTINF:-1 tvg-id="Unknown" tvg-name="GAMETOON"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14358.jpg?60315" ,GAMETOON
+#EXTINF:-1 tvg-id="Gametoon.rs" tvg-name="GAMETOON"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14358.jpg?60315" ,GAMETOON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460791&extension=m3u8&play_token=4rwQQr2VpH
-#EXTINF:-1 tvg-id="Minimax.rs" tvg-name="MINIMAX"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9930.jpg?95773" ,MINIMAX
+#EXTINF:-1 tvg-id="Minimax.rs" tvg-name="MINIMAX"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9930.jpg?95773" ,MINIMAX
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460790&extension=m3u8&play_token=vhILoh6QwN
-#EXTINF:-1 tvg-id="Cartoonito.rs" tvg-name="CARTOONITO"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12333.png?85182" ,CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.rs" tvg-name="CARTOONITO"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12333.png?85182" ,CARTOONITO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460789&extension=m3u8&play_token=zIGrm6KOep
-#EXTINF:-1 tvg-id="History.rs" tvg-name="HISTORY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1065" ,HISTORY
+#EXTINF:-1 tvg-id="History 2.rs" tvg-name="HISTORY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1065" ,HISTORY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460788&extension=m3u8&play_token=oHwn3t0Zk9
-#EXTINF:-1 tvg-id="History2.rs" tvg-name="HISTORY 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?75355" ,HISTORY 2
+#EXTINF:-1 tvg-id="History 2.rs" tvg-name="HISTORY 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?75355" ,HISTORY 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460787&extension=m3u8&play_token=S14RbRTEUZ
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TRAVEL XP"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?47249" ,TRAVEL XP
+#EXTINF:-1 tvg-id="Travelxp 4K.rs" tvg-name="TRAVEL XP"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?47249" ,TRAVEL XP
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460786&extension=m3u8&play_token=sb6YjQm0al
-#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="NATIONAL GEOGRAPHIC"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?55329" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="Unknown" tvg-name="NATIONAL GEOGRAPHIC"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?55329" ,NATIONAL GEOGRAPHIC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460785&extension=m3u8&play_token=HoYKVFlhlH
-#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="NATIONAL GEOGRAPHIC WILD"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9707.jpg?78961" ,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-id="Unknown" tvg-name="NATIONAL GEOGRAPHIC WILD"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9707.jpg?78961" ,NATIONAL GEOGRAPHIC WILD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460784&extension=m3u8&play_token=RVF3RUIoFU
-#EXTINF:-1 tvg-id="AnimalPlanet.rs" tvg-name="ANIMAL PLANET"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?53773" ,ANIMAL PLANET
+#EXTINF:-1 tvg-id="Unknown" tvg-name="ANIMAL PLANET"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?53773" ,ANIMAL PLANET
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460783&extension=m3u8&play_token=pnv2RiPazA
-#EXTINF:-1 tvg-id="DiscoveryChannel.rs" tvg-name="DISCOVERY"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?13515" ,DISCOVERY
+#EXTINF:-1 tvg-id="Discovery Channel.rs" tvg-name="DISCOVERY"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?13515" ,DISCOVERY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460782&extension=m3u8&play_token=bOJ1i0oE32
-#EXTINF:-1 tvg-id="VESTI.rs" tvg-name="INVESTIGATION DISCOVERY ID"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,INVESTIGATION DISCOVERY ID
+#EXTINF:-1 tvg-id="Unknown" tvg-name="INVESTIGATION DISCOVERY ID"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,INVESTIGATION DISCOVERY ID
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460781&extension=m3u8&play_token=Fx90tjaMTS
-#EXTINF:-1 tvg-id="RTSNauka.rs" tvg-name="RTS NAUKA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS NAUKA
+#EXTINF:-1 tvg-id="RTS Nauka.rs" tvg-name="RTS NAUKA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS NAUKA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460780&extension=m3u8&play_token=R8X9tV0oU9
-#EXTINF:-1 tvg-id="RTSPoletarac.rs" tvg-name="RTS POLETARAC"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS POLETARAC
+#EXTINF:-1 tvg-id="RTS Poletarac.rs" tvg-name="RTS POLETARAC"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS POLETARAC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460779&extension=m3u8&play_token=KNNavEBalk
-#EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTS ŽIVOT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS ŽIVOT
+#EXTINF:-1 tvg-id="RTS Život.rs" tvg-name="RTS ŽIVOT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8233.png?69496" ,RTS ŽIVOT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460778&extension=m3u8&play_token=ahERnga9Fr
-#EXTINF:-1 tvg-id="Unknown" tvg-name="RTV TESLA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3001.png?38869" ,RTV TESLA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="RTV TESLA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3001.png?38869" ,RTV TESLA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460777&extension=m3u8&play_token=yTXQCq9Wl7
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV BAP"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14359.jpg?94991" ,TV BAP
+#EXTINF:-1 tvg-id="TV Bap.rs" tvg-name="TV BAP"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14359.jpg?94991" ,TV BAP
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460776&extension=m3u8&play_token=TQUqiooKs5
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TURIZAM PLUS TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14360.jpg?59942" ,TURIZAM PLUS TV
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TURIZAM PLUS TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14360.jpg?59942" ,TURIZAM PLUS TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460775&extension=m3u8&play_token=SSqT8iucQJ
-#EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-name="NOVOSADSKA TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14361.jpg?24974" ,NOVOSADSKA TV
+#EXTINF:-1 tvg-id="Novosadska TV.rs" tvg-name="NOVOSADSKA TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14361.jpg?24974" ,NOVOSADSKA TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460774&extension=m3u8&play_token=T111cpIFG8
-#EXTINF:-1 tvg-id="TVMost.rs" tvg-name="TV MOST"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/152.jpg?92751" ,TV MOST
+#EXTINF:-1 tvg-id="TV Most.rs" tvg-name="TV MOST"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/152.jpg?92751" ,TV MOST
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460773&extension=m3u8&play_token=kZ2bNmAtc7
-#EXTINF:-1 tvg-id="Unknown" tvg-name="VTV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10835.jpg?63000" ,VTV
+#EXTINF:-1 tvg-id="Dunav TV.rs" tvg-name="VTV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10835.jpg?63000" ,VTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460772&extension=m3u8&play_token=OT1l8TKQA5
-#EXTINF:-1 tvg-id="Unknown" tvg-name="KORENI"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14362.png?69702" ,KORENI
+#EXTINF:-1 tvg-id="Koreni.rs" tvg-name="KORENI"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14362.png?69702" ,KORENI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460771&extension=m3u8&play_token=ueIIB6tXYO
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV POZEGA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14363.jpg?40044" ,TV POZEGA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV POZEGA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14363.jpg?40044" ,TV POZEGA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460770&extension=m3u8&play_token=BWYn1A5ZRn
-#EXTINF:-1 tvg-id="TVTrstenik.rs" tvg-name="TV TRSTENIK"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14364.jpg?14367" ,TV TRSTENIK
+#EXTINF:-1 tvg-id="TV Trstenik.rs" tvg-name="TV TRSTENIK"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14364.jpg?14367" ,TV TRSTENIK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460769&extension=m3u8&play_token=EUKbaQZkrY
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV SUMADIJA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9805.jpg?96689" ,TV SUMADIJA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="TV SUMADIJA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9805.jpg?96689" ,TV SUMADIJA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460768&extension=m3u8&play_token=FXsjWAIkNt
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV RAS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14365.png?85252" ,TV RAS
+#EXTINF:-1 tvg-id="TV Ras.rs" tvg-name="TV RAS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14365.png?85252" ,TV RAS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460767&extension=m3u8&play_token=HHDNLUDNSe
-#EXTINF:-1 tvg-id="TVPalmaplus.rs" tvg-name="TV PALMA PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14366.jpg?75013" ,TV PALMA PLUS
+#EXTINF:-1 tvg-id="TV Palma plus.rs" tvg-name="TV PALMA PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14366.jpg?75013" ,TV PALMA PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460766&extension=m3u8&play_token=nTx06oYAha
-#EXTINF:-1 tvg-id="TVBelleAmie.rs" tvg-name="BELLE AMI"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3981.png?88553" ,BELLE AMI
+#EXTINF:-1 tvg-id="Unknown" tvg-name="BELLE AMI"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3981.png?88553" ,BELLE AMI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460765&extension=m3u8&play_token=7ccnrp2wn5
-#EXTINF:-1 tvg-id="Unknown" tvg-name="DM SAT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3948.jpg?8706" ,DM SAT
+#EXTINF:-1 tvg-id="DM SAT.rs" tvg-name="DM SAT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3948.jpg?8706" ,DM SAT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460764&extension=m3u8&play_token=iicE0yR9XE
-#EXTINF:-1 tvg-id="Unknown" tvg-name="ZELENA TV ZDRAVLJE"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9933.jpg?97930" ,ZELENA TV ZDRAVLJE
+#EXTINF:-1 tvg-id="Unknown" tvg-name="ZELENA TV ZDRAVLJE"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9933.jpg?97930" ,ZELENA TV ZDRAVLJE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460763&extension=m3u8&play_token=y3u0EaX7p1
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV FRONT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14368.png?7500" ,TV FRONT
+#EXTINF:-1 tvg-id="TV Front.rs" tvg-name="TV FRONT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14368.png?7500" ,TV FRONT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460762&extension=m3u8&play_token=R5H75GSYZl
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 101"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3001.png?85265" ,RTV 101
+#EXTINF:-1 tvg-id="RTV 101.rs" tvg-name="RTV 101"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3001.png?85265" ,RTV 101
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460761&extension=m3u8&play_token=aAa1YxrQVf
-#EXTINF:-1 tvg-id="TVK23.rs" tvg-name="TV K23"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14369.jpg?7116" ,TV K23
+#EXTINF:-1 tvg-id="TV K23.rs" tvg-name="TV K23"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14369.jpg?7116" ,TV K23
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460760&extension=m3u8&play_token=Mllp8zw8NJ
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV LAV PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14370.jpg?15471" ,TV LAV PLUS
+#EXTINF:-1 tvg-id="TV Lav Plus.rs" tvg-name="TV LAV PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14370.jpg?15471" ,TV LAV PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460759&extension=m3u8&play_token=MJZyXOzsOx
-#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY DRUSTVO"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14371.jpg?21327" ,MOJ HAPPY DRUSTVO
+#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY DRUSTVO"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14371.jpg?21327" ,MOJ HAPPY DRUSTVO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460758&extension=m3u8&play_token=0nky91Lunl
-#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY MUZIKA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14372.jpg?59395" ,MOJ HAPPY MUZIKA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY MUZIKA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14372.jpg?59395" ,MOJ HAPPY MUZIKA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460757&extension=m3u8&play_token=7aObkzUXws
-#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY ZEMLJA"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14373.jpg?15315" ,MOJ HAPPY ZEMLJA
+#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY ZEMLJA"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14373.jpg?15315" ,MOJ HAPPY ZEMLJA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460756&extension=m3u8&play_token=XnQjPp6IoX
-#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY ZIVOT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14374.jpg?71804" ,MOJ HAPPY ZIVOT
+#EXTINF:-1 tvg-id="Unknown" tvg-name="MOJ HAPPY ZIVOT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14374.jpg?71804" ,MOJ HAPPY ZIVOT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460755&extension=m3u8&play_token=r8OBwyLDZ3
-#EXTINF:-1 tvg-id="Unknown" tvg-name="HGTV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13003.jpg?18140" ,HGTV
+#EXTINF:-1 tvg-id="Unknown" tvg-name="HGTV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13003.jpg?18140" ,HGTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460754&extension=m3u8&play_token=yYOqAJ36t0
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV DR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10934.jpg?78953" ,TV DR
+#EXTINF:-1 tvg-id="TV Drina.rs" tvg-name="TV DR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10934.jpg?78953" ,TV DR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460753&extension=m3u8&play_token=P06S3VzSqT
-#EXTINF:-1 tvg-id="VESTI.rs" tvg-name="INVESTIGATION DISCOVERY ID"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,INVESTIGATION DISCOVERY ID
+#EXTINF:-1 tvg-id="Unknown" tvg-name="INVESTIGATION DISCOVERY ID"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?55229" ,INVESTIGATION DISCOVERY ID
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460752&extension=m3u8&play_token=x6iWaHRCeB
-#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="INFORMER TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11031.png?95020" ,INFORMER TV
+#EXTINF:-1 tvg-id="Informer TV.rs" tvg-name="INFORMER TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11031.png?95020" ,INFORMER TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460751&extension=m3u8&play_token=3jX8hRzLZ0
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV HRAM"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9377.jpg?84380" ,TV HRAM
+#EXTINF:-1 tvg-id="TV Hram.rs" tvg-name="TV HRAM"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9377.jpg?84380" ,TV HRAM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460750&extension=m3u8&play_token=RPmaGdSrDL
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJ TV"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14375.png?64549" ,IDJ TV
+#EXTINF:-1 tvg-id="Unknown" tvg-name="IDJ TV"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14375.png?64549" ,IDJ TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460749&extension=m3u8&play_token=nqgAirgDhl
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV NOVI PAZAR"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14376.jpg?36044" ,RTV NOVI PAZAR
+#EXTINF:-1 tvg-id="RTV Novi Pazar.rs" tvg-name="RTV NOVI PAZAR"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14376.jpg?36044" ,RTV NOVI PAZAR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460748&extension=m3u8&play_token=fK78AP491A
-#EXTINF:-1 tvg-id="Unknown" tvg-name="TV DUGA PLUS"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14377.jpg?18466" ,TV DUGA PLUS
+#EXTINF:-1 tvg-id="TV Duga plus.rs" tvg-name="TV DUGA PLUS"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14377.jpg?18466" ,TV DUGA PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460747&extension=m3u8&play_token=MJd38nrAZH
-#EXTINF:-1 tvg-id="Unknown" tvg-name="VIJESTI"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14378.png?96539" ,VIJESTI
+#EXTINF:-1 tvg-id="Unknown" tvg-name="VIJESTI"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14378.png?96539" ,VIJESTI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460746&extension=m3u8&play_token=IYDuHO6jM7
-#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 1
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460745&extension=m3u8&play_token=sYIL2sNrzu
-#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 2
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460744&extension=m3u8&play_token=sgiu9xUWox
-#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 3
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460743&extension=m3u8&play_token=wLlYoAMP7S
-#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 4"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 4
+#EXTINF:-1 tvg-id="Unknown" tvg-name="PINK ELITA 4"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14379.png?4282" ,PINK ELITA 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1460742&extension=m3u8&play_token=q21bEAbpel
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="ARENA PREMIUM 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?ver=5098" ,ARENA PREMIUM 1
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-name="ARENA PREMIUM 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?ver=5098" ,ARENA PREMIUM 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562988&extension=m3u8&play_token=CLqX68ywFN
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="ARENA PREMIUM 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3762.png?37190" ,ARENA PREMIUM 2
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-name="ARENA PREMIUM 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3762.png?37190" ,ARENA PREMIUM 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562987&extension=m3u8&play_token=XCZWvE1OVk
-#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="ARENA PREMIUM 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?10063" ,ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-name="ARENA PREMIUM 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?10063" ,ARENA PREMIUM 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562986&extension=m3u8&play_token=2YaxhTaCcD
-#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="ARENA SPORT 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?26612" ,ARENA SPORT 1
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="ARENA SPORT 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?26612" ,ARENA SPORT 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562985&extension=m3u8&play_token=5UQ8tnSQg0
-#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="ARENA SPORT 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?67715" ,ARENA SPORT 2
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="ARENA SPORT 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?67715" ,ARENA SPORT 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562984&extension=m3u8&play_token=xSYKATAaUW
-#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="ARENA SPORT 3"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3984.png?13899" ,ARENA SPORT 3
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="ARENA SPORT 3"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3984.png?13899" ,ARENA SPORT 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562983&extension=m3u8&play_token=IuUnf0EkPi
-#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="ARENA SPORT 4"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?91595" ,ARENA SPORT 4
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="ARENA SPORT 4"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?91595" ,ARENA SPORT 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562982&extension=m3u8&play_token=EyUgoQsrOW
-#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="ARENA SPORT 5"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3766.png?32022" ,ARENA SPORT 5
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-name="ARENA SPORT 5"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3766.png?32022" ,ARENA SPORT 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562981&extension=m3u8&play_token=saVus7jKIg
-#EXTINF:-1 tvg-id="ArenaSport6.rs" tvg-name="ARENA SPORT 6"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?53898" ,ARENA SPORT 6
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-name="ARENA SPORT 6"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?53898" ,ARENA SPORT 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562980&extension=m3u8&play_token=bSS1CqtgIo
-#EXTINF:-1 tvg-id="ArenaSport7.rs" tvg-name="ARENA SPORT 7"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?36326" ,ARENA SPORT 7
+#EXTINF:-1 tvg-id="Arena Sport 7.rs" tvg-name="ARENA SPORT 7"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?36326" ,ARENA SPORT 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562979&extension=m3u8&play_token=Rg85fxENAs
-#EXTINF:-1 tvg-id="ArenaSport8.rs" tvg-name="ARENA SPORT 8"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3994.png?74502" ,ARENA SPORT 8
+#EXTINF:-1 tvg-id="Arena Sport 8.rs" tvg-name="ARENA SPORT 8"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3994.png?74502" ,ARENA SPORT 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562978&extension=m3u8&play_token=UosXJSHqjd
-#EXTINF:-1 tvg-id="ArenaSport9.rs" tvg-name="ARENA SPORT 9"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14349.png?90140" ,ARENA SPORT 9
+#EXTINF:-1 tvg-id="Arena Sport 9.rs" tvg-name="ARENA SPORT 9"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14349.png?90140" ,ARENA SPORT 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562977&extension=m3u8&play_token=6Uww1IV6en
-#EXTINF:-1 tvg-id="ArenaSport10.rs" tvg-name="ARENA SPORT 10"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11121.png?96683" ,ARENA SPORT 10
+#EXTINF:-1 tvg-id="Arena Sport 10.rs" tvg-name="ARENA SPORT 10"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11121.png?96683" ,ARENA SPORT 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562976&extension=m3u8&play_token=985mi8EMgY
-#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-name="ARENA ESPORT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14260.png?90363" ,ARENA ESPORT
+#EXTINF:-1 tvg-id="Arena Esport.rs" tvg-name="ARENA ESPORT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14260.png?90363" ,ARENA ESPORT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562975&extension=m3u8&play_token=1YwVF1IK8T
-#EXTINF:-1 tvg-id="ArenaFight.rs" tvg-name="ARENA FIGHT"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11124.png?79694" ,ARENA FIGHT
+#EXTINF:-1 tvg-id="Arena Fight.rs" tvg-name="ARENA FIGHT"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11124.png?79694" ,ARENA FIGHT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562974&extension=m3u8&play_token=GeDnXWYPno
-#EXTINF:-1 tvg-id="Eurosport1.rs" tvg-name="EUROSPORT 1"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?75805" ,EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport 1 HD.rs" tvg-name="EUROSPORT 1"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?75805" ,EUROSPORT 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562973&extension=m3u8&play_token=wwbtZ1nh2R
-#EXTINF:-1 tvg-id="Eurosport2.rs" tvg-name="EUROSPORT 2"-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1423.png?53279" ,EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport 2 HD.rs" tvg-name="EUROSPORT 2"-1  -1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1423.png?53279" ,EUROSPORT 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:D8:83:B6&stream=1562972&extension=m3u8&play_token=ocK7foZxD3
